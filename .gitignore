@@ -1,0 +1,22 @@
+# Python
+
+venv/
+**pycache**/
+*.pyc
+
+# Data
+
+data/raw/*
+!data/raw/.gitkeep
+
+# Models
+
+models/*.pkl
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Mac
+
+.DS_Store
